@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\external links"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TracalorieProject"
+	}
+}
